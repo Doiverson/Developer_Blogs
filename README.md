@@ -11,5 +11,6 @@
 **🇯🇵 日本語 Blogs**
 
 - [はてなブログ<企業技術ブログ>](https://hatena.blog/dev)
+- [DevelopersIO](https://dev.classmethod.jp/)
 - [メルカリ](https://engineering.mercari.com/blog/)
 - [リクルート](https://www.recruit.co.jp/employment/students/engineers/)
