@@ -1,1 +1,15 @@
-# Developer_Blogs
+# 🧑🏽‍💻📚Essential Developer Blogs You Need to Follow
+
+**🇨🇦 English Blogs**
+
+- [MongoDB](https://www.mongodb.com/developer/articles/)
+- [Google](https://developers.googleblog.com/)
+- [Airbnb](https://medium.com/airbnb-engineering)
+
+---
+
+**🇯🇵 日本語 Blogs**
+
+- [はてなブログ<企業技術ブログ>](https://hatena.blog/dev)
+- [メルカリ](https://engineering.mercari.com/blog/)
+- [リクルート](https://www.recruit.co.jp/employment/students/engineers/)
