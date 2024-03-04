@@ -5,6 +5,7 @@
 - [MongoDB](https://www.mongodb.com/developer/articles/)
 - [Google](https://developers.googleblog.com/)
 - [Airbnb](https://medium.com/airbnb-engineering)
+- [Medium](https://medium.com/)
 
 ---
 
