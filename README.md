@@ -6,6 +6,7 @@
 - [Google](https://developers.googleblog.com/)
 - [Airbnb](https://medium.com/airbnb-engineering)
 - [Medium](https://medium.com/)
+- [DEV](https://dev.to/)
 
 ---
 
