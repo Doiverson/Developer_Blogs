@@ -8,6 +8,7 @@
 - [Medium](https://medium.com/)
 - [DEV](https://dev.to/)
 - [roadmap.sh](https://roadmap.sh/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
 
 ---
 
