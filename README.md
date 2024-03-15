@@ -18,3 +18,4 @@
 - [DevelopersIO](https://dev.classmethod.jp/)
 - [メルカリ](https://engineering.mercari.com/blog/)
 - [リクルート](https://www.recruit.co.jp/employment/students/engineers/)
+- [Zenn](https://zenn.dev/)
